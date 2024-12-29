@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","created":"2024-12-28T15:39:10.087+02:00","updated":"2024-12-29T18:00:15.738+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2024-12-29T18:38:04.895+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -7,7 +7,7 @@
 > data:: 2024.11.11  
 > ora:: 17:10  
 > conexiuni::  
-> DDC::  
+> DDC::  [[notes/001.450 PKM\|001.450 PKM]]
 > ZettelkastenCode::  
 > sursa::  
 > tags::  
@@ -35,7 +35,7 @@
 - [Notion](https://www.notion.so)
 - etc.
 - [Obsidian](https://obsidian.md/)
-/publi
+
 
 ---
 # subsolul notei
