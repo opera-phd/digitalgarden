@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA - test","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2024-12-29T15:55:41.067+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA - test","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2024-12-29T15:55:47.273+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -41,7 +41,7 @@ Principalele **componente** sunt:
 |                |  [[notes/OPeRA U\|U]]  |                 |
 | [[notes/OPeRA T\|T]] | [[notes/OPeRA AI\|AI]] | [[notes/OPeRA M\|M]]  |
 |                | [[notes/OPeRA DE\|DE]] |                 |
-/publi
+
 
 ---
 # subsolul notei
