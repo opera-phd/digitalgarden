@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/adler/"}
+{"dg-publish":true,"permalink":"/notes/adler/","created":"2024-12-28T15:39:10.107+02:00","updated":"2024-12-29T17:07:28.921+02:00"}
 ---
 
 

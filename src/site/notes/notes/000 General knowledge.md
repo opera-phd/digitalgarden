@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/000-general-knowledge/"}
+{"dg-publish":true,"permalink":"/notes/000-general-knowledge/","created":"2024-12-28T15:39:10.091+02:00","updated":"2024-12-29T16:14:41.179+02:00"}
 ---
 
 > [!abstract]- antet  

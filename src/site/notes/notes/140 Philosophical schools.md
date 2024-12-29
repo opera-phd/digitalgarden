@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/140-philosophical-schools/"}
+{"dg-publish":true,"permalink":"/notes/140-philosophical-schools/","created":"2024-12-28T15:39:10.096+02:00","updated":"2024-12-29T17:06:55.878+02:00"}
 ---
 
 > [!abstract]- antet  
