@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","created":"2024-12-28T15:39:10.087+02:00","updated":"2024-12-29T17:08:45.102+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","created":"2024-12-28T15:39:10.087+02:00","updated":"2024-12-29T17:56:11.412+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -16,8 +16,8 @@
 ---
 
 # componente externe  
-- (nu tocmai componentă, doar un link la  [[content/index\|pagina de pornire]])  
-
+- (nu tocmai componentă, doar un link la  [[index\|pagina de pornire]])  
+/pub
 # instrumente, platforme, sisteme...  
 ## software editare (în general)
 - Apple Notes (links)
