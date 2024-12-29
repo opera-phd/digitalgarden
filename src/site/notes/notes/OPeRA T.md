@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-pe-ra-t/","created":"2024-12-28T15:39:10.065+02:00","updated":"2024-12-29T17:08:28.867+02:00"}
+{"dg-publish":true,"permalink":"/notes/o-pe-ra-t/"}
 ---
 
 > [!abstract]- antet  

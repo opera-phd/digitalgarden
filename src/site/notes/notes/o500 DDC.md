@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o500-ddc/","title":"o500 DDC - mediateca","created":"2024-12-28T15:39:10.120+02:00","updated":"2024-12-29T17:58:49.852+02:00"}
+{"dg-publish":true,"permalink":"/notes/o500-ddc/","title":"o500 DDC - mediateca"}
 ---
 
   

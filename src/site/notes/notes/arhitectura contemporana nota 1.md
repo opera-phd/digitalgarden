@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/arhitectura-contemporana-nota-1/","created":"2024-12-28T15:39:10.109+02:00","updated":"2024-12-29T17:07:38.135+02:00"}
+{"dg-publish":true,"permalink":"/notes/arhitectura-contemporana-nota-1/"}
 ---
 
 > [!abstract]- antet  
