@@ -3,7 +3,7 @@
 ---
 
 > [!abstract]- antet  
-> context:: [[notes/001.450 PKM\|001.450 PKM]] 
+> context::  
 > data:: 2024.11.11  
 > ora:: 17:10  
 > conexiuni::  
@@ -14,7 +14,7 @@
 
 
 ---
-
+/publi
 # componente externe  
 - (nu tocmai componentă, doar un link la  [[index\|pagina de pornire]])  
 # instrumente, platforme, sisteme...  
