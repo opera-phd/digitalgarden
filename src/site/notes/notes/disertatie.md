@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2024-12-28T15:39:10.111+02:00","updated":"2024-12-29T17:07:44.210+02:00"}
+{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2024-12-28T15:39:10.111+02:00","updated":"2024-12-29T17:58:10.116+02:00"}
 ---
 
 > [!abstract]- antet  
-> context::  [[content/index\|index]]  
+> context::  [[index\|index]]  
 > data:: 2024.11.29  
 > ora:: 14:03  
 > conexiuni::  

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2024-12-29T17:07:49.865+02:00"}
+{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2024-12-29T17:58:30.369+02:00"}
 ---
 
 > [!abstract]- antet  
-> context::  [[content/index\|index]]
+> context::  [[index\|index]]
 > data:: 2024.11.30  
 > ora:: 16:07  
 > conexiuni::  
