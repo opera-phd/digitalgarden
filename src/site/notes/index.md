@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA - test","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2024-12-29T15:55:47.273+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA - test","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-10T12:53:04.145+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -17,8 +17,8 @@
 
 # componente externe
 ## primele conexiuni
-- [vault publicat pe Internet](https://arhadrian.github.io/work/)
-- [wiki publicat pe Internet](https://opera.tiddlyhost.com/)
+- [primul vault publicat pe Internet](https://arhadrian.github.io/work/)
+- [wiki publicat pe Internet pentru testare](https://opera.tiddlyhost.com/)
 - test de lucru: [[notes/142.500 Fenomenologie temp\|142.500 Fenomenologie temp]]
 - note provizorii despre [[notes/sisteme PKM\|sisteme PKM]]
 - test [[notes/DST Lab MatDB\|DST Lab MatDB]]

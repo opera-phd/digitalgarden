@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2024-12-29T19:03:12.379+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-08T15:15:11.946+02:00"}
 ---
 
 > [!abstract]- antet  
-> context::  
+> context::  [[index\|index]]
 > data:: 2024.11.11  
 > ora:: 17:10  
 > conexiuni::  
@@ -16,7 +16,7 @@
 ---
 
 # componente externe  
-- (nu tocmai componentă, doar un link la  [[index\|pagina de pornire]])  
+
 # instrumente, platforme, sisteme...  
 ## software editare (în general)
 - Apple Notes (links)
