@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2025-01-10T13:02:01.111+02:00"}
+{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2025-01-10T13:04:51.608+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -25,10 +25,9 @@
 ![cărămidă din pământ crud|300](https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg)
 
 - putem încerca și cu link extern
-/publi
 
 <a href="https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg">
-  <img src="https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg" alt="cărămidă crudă" width="800" height="400">
+  <img src="https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg" alt="cărămidă crudă" width="300" height="200">
 </a>
 
 
