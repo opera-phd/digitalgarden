@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA - test","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-10T12:53:04.145+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA - test","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-10T13:09:56.724+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -23,6 +23,8 @@
 - note provizorii despre [[notes/sisteme PKM\|sisteme PKM]]
 - test [[notes/DST Lab MatDB\|DST Lab MatDB]]
 - îndrumare disertații [[notes/disertatie\|disertatie]]
+## rezultatele proiectului
+- [R.12-A2](https://opera-phd.synology.me/rezultate/R12-A2.pdf), participarea în cadrul proiectului
 # sistem personal de gestiune a cunoștințelor - PKMS
 realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)
 ![OPeRA-logo-350.png|200](/img/user/media/OPeRA-logo-350.png)
