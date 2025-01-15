@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o500-ddc/","title":"o500 DDC - mediateca","created":"2024-12-28T15:39:10.120+02:00","updated":"2024-12-29T17:58:49.852+02:00"}
+{"dg-publish":true,"permalink":"/notes/o500-ddc/","title":"o500 DDC - mediateca","created":"2024-12-28T15:39:10.120+02:00","updated":"2025-01-15T06:15:21.368+02:00"}
 ---
 
   
@@ -14,11 +14,13 @@
 > tags:: #DDC  
   
 ---  
-# componente externe  
-  
-  
+# componente externe
+
+---
+
 # 1st summary: main classes  
-  
+*(nota reflectă o adaptare a sistemului DDC)*
+
 [[notes/o500 DDC#000 General\|#000 General]]  
 [[notes/o500 DDC#100 Philosophy\|#100 Philosophy]]    
 [[notes/o500 DDC#200 Religion\|#200 Religion]]    
@@ -191,7 +193,7 @@
 # subsolul notei  
 ---  
 ## referințe și resurse  
-  
+- [sistemul DDC, la Wikipedia](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification)
   
 ---  
 ## note de subsol  

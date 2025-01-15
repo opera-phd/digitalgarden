@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T05:55:52.470+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T06:11:20.544+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -28,6 +28,10 @@
 Această pagină este punctul de **pornire** în structura acestui **modul al platformei digitale [OPeRA](https://opera-phd.org/),** versiunea 0.2[^1].
 Titlul site-ului, din partea stângă a paginii, **„OPeRA Digital Garden”**, este și **link** către pagina aceasta de pornire care conține cuprinsul modulului *(vezi mai jos, [[index#cuprins\|#cuprins]])*.
 Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
+**Graficul** *microuniversului* notelor, din partea dreaptă a pagini, în partea de sus:
+- are trei niveluri de adâncime care pot fi setate prin glisarea butonului rotund pe bara de setare, de la 1 la 3 niveluri de profunzime a conexiunilor
+- se poate comuta între **graficul local** (centrat pe nota curentă) și **graficul general** (cuprinzând toate notele conectate), deschis într-o fereastră nouă, din butonul în formă de glob, din partea dreaptă, sus, al componentei paginii
+- poate fi mărit în fereastră nouă din butonul (sub forma celor patru săgeți în diagonală, de tip *„full screen”*) din partea dreaptă, sus, al componentei paginii, iar din același buton al ferestrei noi se poate întoarce la starea inițială
 
 Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https://opera-phd.org/)** (altă componentă a platformei noastre digitale) și ne puteți scrie pe aceeași adresă, research@opera-phd.org.
 
