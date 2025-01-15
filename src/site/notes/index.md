@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T05:38:52.502+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T05:55:52.470+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -33,13 +33,14 @@ Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https:/
 
 ## cuprins
 Principalele **componente** ale acestui modul sunt:
+- **documentația și mediateca**, în sistem DDC - [[notes/o500 DDC\|o500 DDC]][^2]
 - **sistemele PKM**
-	- documentare generală - [[notes/001.450 PKM\|001.450 PKM]]
+	- documentare generală despre sistemele PKM - [[notes/001.450 PKM\|001.450 PKM]]
+		- observație: toate notele cu prefix DDC (zecimal) de tipul `###.###` reprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă contribuții la această platformă digitală
 	- o selecție restrânsă de [[notes/sisteme PKM\|sisteme PKM]] recomandate de noi, pe trei niveluri de complexitate
-- **mediateca**, în sistem DDC - [[notes/o500 DDC\|o500 DDC]][^2]
-- **modulul dinamic al platformei digitale**[^3] de managementul cunoștințelor, modul în cadrul proiectului [OPeRA](https://opera-phd.org/)
-	- date, componente și *conexiuni* generale - [[notes/structura platformei OPeRA\|structura platformei OPeRA]]
-	- sistemul **TUA_IDEM** de clasare a informațiilor - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]
+- **modulul dinamic al platformei digitale**[^3] de managementul cunoștințelor, modul în cadrul proiectului [OPeRA](https://opera-phd.org/) *(note fără prefix DDC de tipul `###.###`)*
+	- structură, componente și *conexiuni* generale - [[notes/structura platformei OPeRA\|structura platformei OPeRA]]
+	- sistemul **TUA_IDEM** de clasare a informațiilor din cadrul proiectului - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]
 
 |    (teorie)    |    (practică)    | (materialitate) |
 |:--------------:|:----------------:|:---------------:|

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-15T05:41:31.715+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-15T05:45:10.638+02:00"}
 ---
 
 > [!abstract]- antet  
-> context::  [[index\|index]]
+> context::  [[index\|pagina de pornire]]
 > data:: 2024.11.11  
 > ora:: 17:10  
 > conexiuni::  
