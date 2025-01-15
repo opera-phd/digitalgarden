@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-pe-ra-tuaidem/","created":"2024-12-28T15:39:10.081+02:00","updated":"2024-12-29T17:59:23.174+02:00"}
+{"dg-publish":true,"permalink":"/notes/o-pe-ra-tuaidem/","created":"2024-12-28T15:39:10.081+02:00","updated":"2025-01-15T06:43:31.553+02:00"}
 ---
 
 > [!abstract]- antet  
-> context:: [[index\|index]]   
+> context:: [[index\|pagina de pornire]]   
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  
@@ -15,25 +15,24 @@
 
 ---
 # componente externe  
-  
-# ideea  
-- *(vom sintetiza într-un microeseu)*  
+
+---
+
 # componentele  
 ## T - Teorie  
 - nota principală: [[notes/OPeRA T\|OPeRA T]]  
--   
 ## U - Urbanism  
 - nota principală: [[notes/OPeRA U\|OPeRA U]]  
--   
 ## AI - Arhitectură și Arhitectură de Interior  
 - nota principală: [[notes/OPeRA AI\|OPeRA AI]]  
--   
 ## DE - Detaliere pentru Execuție  
 - nota principală: [[notes/OPeRA DE\|OPeRA DE]]  
--   
 ## Materiale  
 - nota principală: [[notes/OPeRA M\|OPeRA M]]  
-- bază de cunoștințe care cuprinde și o bază de date cu materialele din DST Lab  
+- bază de cunoștințe care va include și o interfață către baza de date cu materialele din **DST Lab** (vezi [[notes/structura platformei OPeRA\|structura platformei OPeRA]])
+
+# ideea  
+- *(o vom sintetiza în curând într-un microeseu, așa cum a fost prezentată în cadrul conferinței **[FAST 2024, Cluj](https://fast.oar.archi/home/conferinta-stiintifica-fast/)** )*  
 
 
 ---

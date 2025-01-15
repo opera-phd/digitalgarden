@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-15T05:45:10.638+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-15T06:20:20.567+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -38,8 +38,8 @@
 - [Concepts](https://concepts.app/en/), (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9ngqm8fph9wq?launch=true&mode=full&hl=en-us&gl=ro&ocid=bingwebsearch))
 ## sisteme PKM  
 (câteva sisteme PKM propriu-zise răspândite larg)
-- [Obsidian](https://obsidian.md/)
-- [Notion](https://www.notion.so)
+- **[Obsidian](https://obsidian.md/)** (sistemul folosit pentru construcția acestui modul al platformei digitale a proiectului)
+- [Notion](https://www.notion.so) (unul dintre cele mai răspândite sisteme PKM)
 - *etc. (vom realiza o notă mai amplă despre această categorie)*
 
 

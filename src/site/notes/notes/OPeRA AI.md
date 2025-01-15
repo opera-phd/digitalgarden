@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-pe-ra-ai/","created":"2024-12-28T15:39:10.122+02:00","updated":"2024-12-29T17:08:12.645+02:00"}
+{"dg-publish":true,"permalink":"/notes/o-pe-ra-ai/","created":"2024-12-28T15:39:10.122+02:00","updated":"2025-01-15T06:53:18.035+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -17,10 +17,14 @@
 
 # componente externe  
 
+---
   
-# OPeRA AI - Arhitectură și Arhitectură de Interior  
+# OPeRA AI - Arhitectură și Arhitectură de Interior
+## referințe în platformă (LZ)
+*(vom include note bibliografice și referințe despre arhitectură, arhitectură de interior și patrimoniu construit)*
+## note de lucru (FZ)
+*(vom adăuga alte note de lucru despre arhitectură, arhitectură de interior și patrimoniu construit)*
 
-text  
 
 
 ---

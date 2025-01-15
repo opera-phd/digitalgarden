@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2025-01-10T13:04:51.608+02:00"}
+{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2025-01-15T06:58:44.840+02:00"}
 ---
 
 > [!abstract]- antet  
-> context::  [[index\|index]]
+> context::  [[notes/OPeRA M\|OPeRA M]]
 > data:: 2024.11.30  
 > ora:: 16:07  
 > conexiuni::  
@@ -17,15 +17,14 @@
 
 # componente externe
 
+---
 
-# ideea  
-- putem publica și fotografii aici, de exemplu această imagine cu o cărămidă din pământ crud:  
-
+# componente de testare
+- putem publica fotografii aici cu link extern din sistemul de stocare al platformei proiectului (NAS Synology, *Network Attached Storage*), de exemplu această imagine cu o cărămidă din pământ crud :
 
 ![cărămidă din pământ crud|300](https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg)
 
-- putem încerca și cu link extern
-
+- putem lucra și cu link extern folosind cod HTML
 <a href="https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg">
   <img src="https://opera-phd.synology.me/web_images/CARAMIDA%20CRUDA.jpg" alt="cărămidă crudă" width="300" height="200">
 </a>

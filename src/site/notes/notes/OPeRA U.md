@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-pe-ra-u/","created":"2024-12-28T15:39:10.085+02:00","updated":"2024-12-29T17:08:38.576+02:00"}
+{"dg-publish":true,"permalink":"/notes/o-pe-ra-u/","created":"2024-12-28T15:39:10.085+02:00","updated":"2025-01-15T06:48:13.962+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -16,13 +16,15 @@
 ---
 
 # componente externe  
-  
 
-# OPeRA U - Urbanism  
+---
+
+# OPeRA U - Urbanism
 ## referințe în platformă (LZ)
-
+*(vom include note bibliografice și referințe despre urbanism și peisagistică)*
 ## note de lucru (FZ)
-- [[agricultura urbana\|agricultura urbana]]
+- [[agricultura urbana\|agricultura urbana]] *(o notă realizată pentru un studiu în cadrul testării platformei)*
+- *(vom adăuga alte note de lucru despre urbanism și peisagistică)*
 
   
 ---

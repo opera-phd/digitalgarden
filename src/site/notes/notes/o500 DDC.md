@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o500-ddc/","title":"o500 DDC - mediateca","created":"2024-12-28T15:39:10.120+02:00","updated":"2025-01-15T06:15:21.368+02:00"}
+{"dg-publish":true,"permalink":"/notes/o500-ddc/","title":"o500 DDC - mediateca","created":"2024-12-28T15:39:10.120+02:00","updated":"2025-01-15T06:16:12.684+02:00"}
 ---
 
   
 > [!abstract]- antet  
-> context::  [[index\|index]]  
+> context::  [[index\|pagina de pornire]]  
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  

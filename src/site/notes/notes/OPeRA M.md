@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-pe-ra-m/","created":"2024-12-28T15:39:10.125+02:00","updated":"2024-12-29T17:08:23.610+02:00"}
+{"dg-publish":true,"permalink":"/notes/o-pe-ra-m/","created":"2024-12-28T15:39:10.125+02:00","updated":"2025-01-15T06:52:51.920+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -15,12 +15,16 @@
 
 ---
 
-# componente externe  
+# componente externe
 
-  
+---
+
 # OPeRA M - Materiale  
-
-text  
+## referințe în platformă (LZ)
+*(vom include note bibliografice și referințe despre materiale de construcție, o componentă a interfeței cu baza de date conținând mostrele de materiale de construcție din **DST Lab** (vezi [[notes/structura platformei OPeRA\|structura platformei OPeRA]])*
+## note de lucru (FZ)
+- *(vom adăuga alte note de lucru despre arhitectură, arhitectură de interior și patrimoniu construit)*
+- *(vom include o interfață cu baza de date conținând mostrele de materiale de construcție din **DST Lab** (vezi [[notes/structura platformei OPeRA\|structura platformei OPeRA]])*
 
   
 ---
