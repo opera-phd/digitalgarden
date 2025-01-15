@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T04:46:18.084+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T05:38:52.502+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -16,19 +16,29 @@
 ---
 
 # componente externe
+- această pagină, spre deosebire de altele, nu are *context* *(de obicei declarat în proprietatea omonimă din **antet**, vezi mai sus)* și, deocamdată, nici alte componente externe, în afară de...
+	- ... website-ul proiectului **[OPeRA](https://opera-phd.org/)**
 
+---
 
 # sistem personal de gestiune a cunoștințelor - PKMS
 *realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)*
 ![OPeRA-logo-350.png|200](/img/user/media/OPeRA-logo-350.png)
 ## introducere
-Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1].
-## conținut
-Principalele **componente** sunt:
-- **sistemele PKM**, documentare generală - [[notes/001.450 PKM\|001.450 PKM]]
-- **mediateca**, în sistem DDC [[notes/o500 DDC\|o500 DDC]][^2]
-- **platforma** digitală de managementul cunoștințelor, modul în cadrul proiectului [OPeRA](https://opera-phd.org/)
-	- date, componente și *conexiuni* generale - [[platforma OPeRA\|platforma OPeRA]]
+Această pagină este punctul de **pornire** în structura acestui **modul al platformei digitale [OPeRA](https://opera-phd.org/),** versiunea 0.2[^1].
+Titlul site-ului, din partea stângă a paginii, **„OPeRA Digital Garden”**, este și **link** către pagina aceasta de pornire care conține cuprinsul modulului *(vezi mai jos, [[index#cuprins\|#cuprins]])*.
+Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
+
+Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https://opera-phd.org/)** (altă componentă a platformei noastre digitale) și ne puteți scrie pe aceeași adresă, research@opera-phd.org.
+
+## cuprins
+Principalele **componente** ale acestui modul sunt:
+- **sistemele PKM**
+	- documentare generală - [[notes/001.450 PKM\|001.450 PKM]]
+	- o selecție restrânsă de [[notes/sisteme PKM\|sisteme PKM]] recomandate de noi, pe trei niveluri de complexitate
+- **mediateca**, în sistem DDC - [[notes/o500 DDC\|o500 DDC]][^2]
+- **modulul dinamic al platformei digitale**[^3] de managementul cunoștințelor, modul în cadrul proiectului [OPeRA](https://opera-phd.org/)
+	- date, componente și *conexiuni* generale - [[notes/structura platformei OPeRA\|structura platformei OPeRA]]
 	- sistemul **TUA_IDEM** de clasare a informațiilor - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]
 
 |    (teorie)    |    (practică)    | (materialitate) |
@@ -42,10 +52,11 @@ Principalele **componente** sunt:
 # subsolul notei
 ---
 ## referințe și resurse
-- personalizez din nou acest vault, așa că îmi notez pașii necesari în [[personalizare\|personalizare]]
+
 
 ---
 ## note de subsol
 ---
-[^1]: reprezintă o versiune alpha-testing
-[^2]: Dewey Decimal Classification System
+[^1]: reprezintă încă o versiune *alpha-testing*
+[^2]: [Dewey Decimal Classification System](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification)
+[^3]: noțiunea de „dinamic” este relativă; acesta este generat cu ajutorul unui sistem **[SSG](https://medium.com/codex/web-design-patterns-ssr-ssg-and-spa-fadad7673dfe)** *(Static Site Generator)*, dar procesul este foarte flexibil și rapid, orice actualizare (dinamică) a conținutului în platforma offline **Obsidian** fiind publicată în mai puțin de un minut
