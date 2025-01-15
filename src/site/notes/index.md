@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T04:18:14.558+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T04:46:18.084+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -16,17 +16,10 @@
 ---
 
 # componente externe
-## primele conexiuni
-- [primul vault publicat pe Internet](https://arhadrian.github.io/work/)
-- [wiki publicat pe Internet pentru testare](https://opera.tiddlyhost.com/)
-- test de lucru: [[notes/142.500 Fenomenologie temp\|142.500 Fenomenologie temp]]
-- note provizorii despre [[notes/sisteme PKM\|sisteme PKM]]
-- test [[notes/DST Lab MatDB\|DST Lab MatDB]]
-- îndrumare disertații [[notes/disertatie\|disertatie]]
-## rezultatele proiectului
-- [R.12-A2](https://opera-phd.synology.me/rezultate/R12-A2/R12-A2.pdf), participarea în cadrul proiectului
+
+
 # sistem personal de gestiune a cunoștințelor - PKMS
-realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)
+*realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)*
 ![OPeRA-logo-350.png|200](/img/user/media/OPeRA-logo-350.png)
 ## introducere
 Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1].
@@ -36,7 +29,7 @@ Principalele **componente** sunt:
 - **mediateca**, în sistem DDC [[notes/o500 DDC\|o500 DDC]][^2]
 - **platforma** digitală de managementul cunoștințelor, modul în cadrul proiectului [OPeRA](https://opera-phd.org/)
 	- date, componente și *conexiuni* generale - [[platforma OPeRA\|platforma OPeRA]]
-	- sistemul TUA_IDEM de clasare a informațiilor - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]
+	- sistemul **TUA_IDEM** de clasare a informațiilor - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]
 
 |    (teorie)    |    (practică)    | (materialitate) |
 |:--------------:|:----------------:|:---------------:|
