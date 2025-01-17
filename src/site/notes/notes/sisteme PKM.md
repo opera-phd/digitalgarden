@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-15T06:20:20.567+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2024-12-28T15:39:10.087+02:00","updated":"2025-01-17T19:16:34.245+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -19,23 +19,23 @@
 
 ---
 
-# instrumente, platforme, sisteme PKM
+# niveluri de complexitate pentru platforme, sisteme, instrumente PKM
 ## software editare (în general)
 *(pot emula sistemele PKM, la un nivel de simplitate)*
-- Apple Notes (oferă link-uri)
+- Apple Notes (oferă link-uri; sistemele Android au nevoie de aplicații speciale pentru aceasta)
 - Google Docs (cu link-uri)
-- MS Office, LibreOffice...
+- MS Office, LibreOffice... (de asemenea, cu link-uri)
 ## sisteme note taking, wikis, mind mapping, whiteboard
 *(pot constitui un înlocuitor al sistemelor PKM propriu-zise, la un prim nivel de complexitate)*
 - Sisteme wiki, tiddlywiki cu [tiddlyhost](https://opera.tiddlyhost.com/)
 	- cont gratuit [tiddlyhost](https://tiddlyhost.com/)
-	- pentru un *test-drive* rapid pe wiki-ul de mai sus, putem oferi user (research@opera-phd.org) și parolă
-	- mai bine încercați propria versiune; dacă vreți să dezvoltați conținut în această variantă într-o formulă extinsă, în echipă, vă invităm să ne scrieți
+	- pentru un *test-drive* rapid pe wiki-ul de mai sus, vă putem oferi user (research@opera-phd.org) și parolă
+		- mai bine încercați propria versiune; dacă vreți să dezvoltați conținut în această variantă într-o formulă extinsă, în echipă, vă invităm să ne scrieți la adresa research@opera-phd.org
 - [[Digital Garden\|Digital Garden]]
-- [Joplin](https://joplinapp.org/) (în loc de Evernote)
-- [FreeMind](https://sourceforge.net/projects/freemind/) (la SourceForge) (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9nj0r2c43f8d?hl=en-us&gl=US) )
-- [Miro](https://miro.com/)
-- [Concepts](https://concepts.app/en/), (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9ngqm8fph9wq?launch=true&mode=full&hl=en-us&gl=ro&ocid=bingwebsearch))
+- [Joplin](https://joplinapp.org/) (recomandăm în loc de Evernote)
+- [FreeMind](https://sourceforge.net/projects/freemind/) (la SourceForge) (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9nj0r2c43f8d?hl=en-us&gl=US) ), program gratuit de mind mapping pe care îl recomandăm în locul celor care oferă un mediu de lucru încărcat grafic (vedeți nota despre [[principii PKM UI\|principii PKM UI]])
+- [Miro](https://miro.com/), whiteboard
+- [Concepts](https://concepts.app/en/), (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9ngqm8fph9wq?launch=true&mode=full&hl=en-us&gl=ro&ocid=bingwebsearch)), aplicație de tip „infinite canvas”, oferă un spațiu de lucru structurat și cvasi-infinit, cu layere, grupuri, obiecte etc.
 ## sisteme PKM  
 (câteva sisteme PKM propriu-zise răspândite larg)
 - **[Obsidian](https://obsidian.md/)** (sistemul folosit pentru construcția acestui modul al platformei digitale a proiectului)
