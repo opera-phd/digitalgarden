@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-17T18:41:07.959+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-17T19:09:47.094+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -55,6 +55,33 @@ Principalele **componente** ale acestui modul sunt:
 |                |  [[notes/OPeRA U\|U]]  |                 |
 | [[notes/OPeRA T\|T]] | [[notes/OPeRA AI\|AI]] | [[notes/OPeRA M\|M]]  |
 |                | [[notes/OPeRA DE\|DE]] |                 |
+# aplicații în cadrul sistemului
+## integrarea în cursuri din curricula UAUIM
+Unul dintre scopurile platformei digitale este de a oferi suport pentru câteva discipline din curricula UAUIM.
+### cursuri
+Cursurile pentru care platforma a fost deja configurată sunt:
+- [[ST-70E\|ST-70E]] Technology for Sustainable Habitat, anul 4 EN, sem. 2 (curs la alegere)
+- [[ST-85E\|ST-85E]] Introduction to Buildings' Physics, anul 3 EN, sem. 1
+- [[ST-113\|ST-113]] Arhitectură incluzivă / Design universal, anul 4, sem. 2 (curs la alegere)
+- [[ST-112\|ST-112]] Detaliere de arhitectură (2) (CRA Sibiu, eventual și ST-111 Detaliere de arhitectură (1), FA)
+- [[SDU-21\|SDU-21]] Sisteme de cercetare și gestiunea cunoștințelor, anul 1, SDU și SDA, sem. 1
+### proiecte
+Proiectele pentru care a fost configurată conectarea cu platforma digitală sunt:
+- [[ST-23\|ST-23]] Proiect tehnologie arhitecturală (4), anul 5, sem. 1
+	- [[ST-23E\|ST-23E]], Architectural Technology Design Studio (4), anul 5 EN, sem. 1
+- [[ST-84\|ST-84]] Proiect arhitectură sustenabilă, anul 5, sem. 2 (proiect la alegere)
+	- și [[ST-84E\|ST-84E]] Design Studio - Sustainable Architecture, anul 5 EN, sem. 2 (proiect la alegere)
+## îndrumarea disertațiilor
+Utilizarea în cadrul îndrumării disertațiilor reprezintă un subset al principiilor prezentate în cadrul cursului [[SDU-21\|SDU-21]], Sisteme de cercetare și gestiunea cunoștințelor *(anul 1, SDU și SDA, sem. 1)* și ilustrate în cadrul acestei platforme, cu precădere pornind de la notele și modulele următoare:
+- [[notes/disertatie\|disertatie]], nota de pornire în activitatea de îndrumare a disertațiilor
+- [[notes/001.450 PKM\|PKM]], documentații referitoare la sistemele personale de management al cunoștințelor (PKM)
+- [[notes/sisteme PKM\|sisteme PKM]], o selecție restrânsă de platforme și instrumente PKM
+## îndrumarea tezelor de doctorat
+Platforma poate fi folosită și în cadrul îndrumării tezelor de doctorat, pornind de la principiile prezentate în cadrul cursului [[SDU-21\|SDU-21]], Sisteme de cercetare și gestiunea cunoștințelor *(anul 1, SDU și SDA, sem. 1)*
+## suport în cadrul clubului DeepWork_PhD
+Clubul DeepWork_PhD a fost lansat oficial în cadrul proiectului **OPeRA**, în prima sesiune de formare organizată, prezentată pe website-ul proiectului, [Orizont și manifestare – OPeRA](https://opera-phd.org/orizont-si-manifestare/). Puteți găsi o foarte scurtă prezentare pe pagina care prezintă lansarea oficială a clubului ca laborator de cercetare UAUIM, [lansarea clubului DeepWork_PhD](https://opera-phd.org/s1-3/).
+În cadrul clubului, vom dezvolta secțiuni ale acestei platforme și vom desfășura mai multe evenimente rezervate membrilor acestui club, dar la care puteți participa dacă sunteți interesați. Așteptăm să ne scrieți la aceeași adresă, research@opera-phd.org.
+
 
 
 ---
