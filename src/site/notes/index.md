@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-15T06:11:20.544+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2024-12-28T15:33:12.249+02:00","updated":"2025-01-17T18:41:07.959+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -16,8 +16,8 @@
 ---
 
 # componente externe
-- această pagină, spre deosebire de altele, nu are *context* *(de obicei declarat în proprietatea omonimă din **antet**, vezi mai sus)* și, deocamdată, nici alte componente externe, în afară de...
-	- ... website-ul proiectului **[OPeRA](https://opera-phd.org/)**
+- această pagină, spre deosebire de altele, nu are *context* *(de obicei declarat în proprietatea omonimă din **antet**, vezi mai sus)* și, deocamdată, nici alte componente externe, cu excepția...
+	- ... modulului complementar pe care îl reprezintă website-ul proiectului **[OPeRA](https://opera-phd.org/)**
 
 ---
 
@@ -33,18 +33,22 @@ Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în 
 - se poate comuta între **graficul local** (centrat pe nota curentă) și **graficul general** (cuprinzând toate notele conectate), deschis într-o fereastră nouă, din butonul în formă de glob, din partea dreaptă, sus, al componentei paginii
 - poate fi mărit în fereastră nouă din butonul (sub forma celor patru săgeți în diagonală, de tip *„full screen”*) din partea dreaptă, sus, al componentei paginii, iar din același buton al ferestrei noi se poate întoarce la starea inițială
 
-Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https://opera-phd.org/)** (altă componentă a platformei noastre digitale) și ne puteți scrie pe aceeași adresă, research@opera-phd.org.
+Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https://opera-phd.org/)** *(altă componentă a platformei noastre digitale)* și ne puteți scrie pe aceeași adresă: research@opera-phd.org.
 
 ## cuprins
 Principalele **componente** ale acestui modul sunt:
+- **structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale - [[notes/structura platformei OPeRA\|structura platformei OPeRA]]
 - **documentația și mediateca**, în sistem DDC - [[notes/o500 DDC\|o500 DDC]][^2]
 - **sistemele PKM**
 	- documentare generală despre sistemele PKM - [[notes/001.450 PKM\|001.450 PKM]]
-		- observație: toate notele cu prefix DDC (zecimal) de tipul `###.###` reprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă contribuții la această platformă digitală
+		- observație: toate notele cu prefix DDC (zecimal) dereprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă contribuții proprii la această platformă digitală
 	- o selecție restrânsă de [[notes/sisteme PKM\|sisteme PKM]] recomandate de noi, pe trei niveluri de complexitate
-- **modulul dinamic al platformei digitale**[^3] de managementul cunoștințelor, modul în cadrul proiectului [OPeRA](https://opera-phd.org/) *(note fără prefix DDC de tipul `###.###`)*
-	- structură, componente și *conexiuni* generale - [[notes/structura platformei OPeRA\|structura platformei OPeRA]]
-	- sistemul **TUA_IDEM** de clasare a informațiilor din cadrul proiectului - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]
+- **modulul dinamic al platformei digitale**[^3] de managementul cunoștințelor în cadrul proiectului [OPeRA](https://opera-phd.org/) 
+	- componente ale **documentației** (bibliotecii), clasate în sistemul zecimal Dewey (DDC), cu prefix de tipul `###.###` (note de tip „Literature Review”) (LZ, *LiteraturZettel* în sistem [[Zettelkasten\|Zettelkasten]])
+	- note reprezentând **propriile contribuții** (idei, comentarii) ale membrilor proiectului (FZ, *FolgeZettel* în sistem [[Zettelkasten\|Zettelkasten]])
+	- în particular, clasarea tematică în cadrul sistemului **TUA_IDEM** de clasare a informațiilor din cadrul proiectului - [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]] urmărind, din nou:
+		- **documentații** (clasate DDC) în cadrul studiului tematic
+		- **contribuții proprii** în cadrul acestui studiu
 
 |    (teorie)    |    (practică)    | (materialitate) |
 |:--------------:|:----------------:|:---------------:|
