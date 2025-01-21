@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sdu-21/","created":"2025-01-17T23:38:20.612+02:00","updated":"2025-01-17T23:47:36.547+02:00"}
+{"dg-publish":true,"permalink":"/sdu-21/","created":"2025-01-17T23:38:20.612+02:00","updated":"2025-01-21T12:12:52.075+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -16,15 +16,14 @@
 ---
 
 # componente externe
+- prezentare la cursul 01: https://opera-phd.synology.me/digitalgarden/SDU-21-C01.pdf
 
 
 ---
 
 # SDU-21: Sisteme de cercetare și gestiunea cunoștințelor
 
-## planul cursurilor
-
-## componente
+## conținutul cursurilor
 
 
 
