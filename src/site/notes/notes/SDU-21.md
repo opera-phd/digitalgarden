@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sdu-21/","created":"2025-01-23T15:11:47.736+02:00","updated":"2025-01-23T16:06:24.756+02:00"}
+{"dg-publish":true,"permalink":"/notes/sdu-21/","created":"2025-01-23T15:11:47.736+02:00","updated":"2025-01-23T16:38:55.793+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -25,8 +25,8 @@
 
 ## conținutul cursurilor
 - **C01: Modele de investigare și creație științifică folosind hârtia și instrumentele tradiționale**
-- **C02: Aplicații și demonstrații practice ale sistemelor tradiționale**
-- **C03: Sisteme digitale de cercetare și gestiunea cunoștințelor**
+- **C02: Aplicații și demonstrații practice ale sistemelor tradiționale** - [[notes/SDU-21-C02\|SDU-21-C02]]
+- **C03: Sisteme digitale de cercetare și gestiunea cunoștințelor** - [[notes/SDU-21-C03\|SDU-21-C03]]
 - **C04**:
 	- **Tehnici de lucru cu literatura de specialitate**: [[notes/SDU-21-C04\|SDU-21-C04]]
 	- **Demonstrații și aplicații practice: platforme digitale PKM *(Obsidian)***
