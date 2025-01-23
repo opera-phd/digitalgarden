@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sdu-21/","created":"2025-01-23T15:11:47.736+02:00","updated":"2025-01-21T12:24:21.113+02:00"}
+{"dg-publish":true,"permalink":"/notes/sdu-21/","created":"2025-01-23T15:11:47.736+02:00","updated":"2025-01-23T16:06:24.756+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -25,10 +25,12 @@
 
 ## conținutul cursurilor
 - **C01: Modele de investigare și creație științifică folosind hârtia și instrumentele tradiționale**
-- urmează:
-	- sisteme digitale, inclusiv asistență AI
-	- sisteme de lucru cu referințele
-	- seminar socratic
+- **C02: Aplicații și demonstrații practice ale sistemelor tradiționale**
+- **C03: Sisteme digitale de cercetare și gestiunea cunoștințelor**
+- **C04**:
+	- **Tehnici de lucru cu literatura de specialitate**: [[notes/SDU-21-C04\|SDU-21-C04]]
+	- **Demonstrații și aplicații practice: platforme digitale PKM *(Obsidian)***
+	- **seminar socratic**
 ## obiectivul săptămânii
 - Explorarea și configurarea unui **sistem personal** de cercetare și gestiunea cunoștințelor (**PKMS**) *(cum?)*
 - Un **Syntopicon propriu**: o colecție de termeni-cheie *(arhitectură, urbanism, peisagistică, restaurare, sustenabilitate etc.)* de la care să pornească elaborarea (construcția) unui PKMS *(ce?)*
