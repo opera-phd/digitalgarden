@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2024-12-28T15:39:10.114+02:00","updated":"2025-01-15T06:58:44.840+02:00"}
+{"dg-publish":true,"permalink":"/notes/dst-lab-mat-db/","created":"2025-01-23T15:11:49.826+02:00","updated":"2025-01-15T06:58:44.840+02:00"}
 ---
 
 > [!abstract]- antet  

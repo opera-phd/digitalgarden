@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2024-12-28T15:39:10.111+02:00","updated":"2024-12-29T17:58:10.116+02:00"}
+{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2025-01-23T15:11:49.809+02:00","updated":"2024-12-29T17:58:10.116+02:00"}
 ---
 
 > [!abstract]- antet  

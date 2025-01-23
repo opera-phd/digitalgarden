@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-read-a-book/","created":"2024-12-28T15:39:10.117+02:00","updated":"2024-12-29T17:07:56.511+02:00"}
+{"dg-publish":true,"permalink":"/notes/how-to-read-a-book/","created":"2025-01-23T15:11:49.830+02:00","updated":"2024-12-29T17:07:56.511+02:00"}
 ---
 
 > [!abstract]- antet  

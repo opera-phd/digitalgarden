@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/720-architecture/","created":"2024-12-28T15:39:10.105+02:00","updated":"2024-12-29T17:07:15.479+02:00"}
+{"dg-publish":true,"permalink":"/notes/720-architecture/","created":"2025-01-23T15:11:49.794+02:00","updated":"2024-12-29T17:07:15.479+02:00"}
 ---
 
 > [!abstract]- antet  
