@@ -10,4 +10,44 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    /* Added by Adrian in January 2025 */
+    /* Custom styles for italic text */
+span.cm-em {
+    color: #81a867 !important; /* the italic text */
+    font-style: italic !important;
+}
+
+/* Custom styles for bold text */
+span.cm-strong {
+    color: #c29b68 !important; /* the bold text */
+    font-weight: bold !important;
+}
+/* Changing some of the interface main components*/
+:root .theme-dark {
+    --bg0: #343434 !important;
+    --header-red: #c29b68;
+    /* Heading 1, 2 and 3*/
+    --header-red: #c29b68;
+    --header-orange: #7e5841;
+    --header-yellow: #707e6b;
+    /* Heading 4, something unknown and 5*/
+    --header-green: #ada586;
+    --header-aqua: #a1b2b9;
+    --header-blue: #687d83;
+    --fg: #dad4bb;
+    /* guessing the selection background from the first shot!*/
+    --bg-visual: #bebbad;
+    /* guessing again the internal link color*/
+    --link-color: #aa6e6e;
+    --link-color-hover: #c53535;
+    --link-external-color: #30608d;
+    --link-external-color-hover: #2f75b6;
+    /* comments or codes and the outline vertical lines*/
+    --fg-blue: #758692;
+}
+/* Bold text in callout */
+.callout[data-callout] strong {
+    color: #c29b68;
+}
+
 }
