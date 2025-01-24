@@ -38,6 +38,12 @@ span.cm-strong, strong {
     background-color: #343434 !important;
 }
 
+
+    /* Force background color for sidebar */
+body .sidebar {
+    background-color: #343434 !important; /* Apply your desired color */
+}
+
     
 
     /* Override text variables specifically in the Minimal theme's scope */
