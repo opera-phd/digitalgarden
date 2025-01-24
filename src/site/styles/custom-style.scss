@@ -12,43 +12,19 @@ body {
     //  }
     /* Added by Adrian in January 2025 */
 
-    /* Custom styles for italic text */
-body span.cm-em {
+
+/* High-specificity override for italic text */
+.cm-s-obsidian span.cm-em {
     color: #81a867 !important; /* Green for italic text */
-    font-style: italic !important;
 }
 
-/* Custom styles for bold text */
-body span.cm-strong {
+/* High-specificity override for bold text */
+.cm-s-obsidian span.cm-strong {
     color: #c29b68 !important; /* Orange for bold text */
-    font-weight: bold !important;
 }
 
-/* Ultra-specific rule to override any inline styles or variables */
-body .theme-dark .content span.cm-em {
-    color: #81a867 !important;
-}
-
-body .theme-dark .content span.cm-strong {
-    color: #c29b68 !important;
-}
-
-    /* now forcing for inline styles*/
-
-    body span.cm-em,
-body span.cm-em::before,
-body span.cm-em::after {
-    color: #81a867 !important; /* Green for italic */
-}
-
-body span.cm-strong,
-body span.cm-strong::before,
-body span.cm-strong::after {
-    color: #c29b68 !important; /* Orange for bold */
-}
 
     
-    /* forcing above, there */
     /* Custom styles for italic text */
 span.cm-em {
     color: #81a867 !important; /* the italic text */
