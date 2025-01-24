@@ -24,10 +24,30 @@ body {
 }
 
 
-:root {
-    --italic-color: #81a867; /* Green for italic text */
-    --bold-color: #c29b68;   /* Orange for bold text */
-    --text-normal: #dad4bb;  /* Beige for normal text */
+
+
+    /* Override text variables specifically in the Minimal theme's scope */
+:root .theme-dark {
+    --bold-color: #c29b68 !important; /* Orange for bold text */
+    --italic-color: #81a867 !important; /* Green for italic text */
+    --text-normal: #dad4bb !important; /* Beige for normal text */
+}
+
+/* Force these styles to apply */
+body strong,
+body span.cm-strong {
+    color: var(--bold-color) !important;
+    font-weight: bold !important;
+}
+
+body em,
+body span.cm-em {
+    color: var(--italic-color) !important;
+    font-style: italic !important;
+}
+
+body {
+    color: var(--text-normal) !important;
 }
 
 
