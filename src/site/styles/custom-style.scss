@@ -28,7 +28,10 @@ span.cm-strong, strong {
 }
 
 
-    
+    :root {
+  --callout-color: #eee7dd; /* Replace #81a867 with your desired color */
+}
+
     
 
     /* Override text variables specifically in the Minimal theme's scope */
