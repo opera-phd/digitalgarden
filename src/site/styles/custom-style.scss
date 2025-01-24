@@ -27,29 +27,6 @@ span.cm-strong, strong {
 }
 
 
-
-    /* Custom background color for the sidebar */
-.sidebar {
-    background-color: #343434 !important; /* Replace with your desired color */
-}
-
-
-    .theme-dark .sidebar {
-    background-color: #343434 !important;
-}
-
-
-    /* Force background color for sidebar */
-body .sidebar {
-    background-color: #343434 !important; /* Apply your desired color */
-}
-
-
-    body .sidebar, body .sidebar * {
-    background-color: #343434 !important; /* Ensure all child elements match the sidebar */
-}
-
-
     
     
 
@@ -76,7 +53,7 @@ span.cm-strong {
 
 /* Set the background color */
 
-    background-color: #343434 !important; /* Background for the entire page */
+/*    background-color: #343434 !important; /* Background for the entire page */
 
 
 /* Custom styles for headings */
