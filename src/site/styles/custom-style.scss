@@ -24,6 +24,14 @@ body {
 }
 
 
+:root {
+    --italic-color: #81a867; /* Green for italic text */
+    --bold-color: #c29b68;   /* Orange for bold text */
+    --text-normal: #dad4bb;  /* Beige for normal text */
+}
+
+
+    
     
     /* Custom styles for italic text */
 span.cm-em {
