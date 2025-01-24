@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-23T15:11:47.734+02:00","updated":"2025-01-24T15:09:35.174+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-23T15:11:47.734+02:00","updated":"2025-01-24T15:31:50.407+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -18,6 +18,8 @@
 # componente externe
 - această pagină, spre deosebire de altele, nu are *context* *(de obicei declarat în proprietatea omonimă din **antet**, vezi mai sus)* și, deocamdată, nici alte componente externe, cu excepția...
 	- ... modulului complementar pe care îl reprezintă website-ul proiectului **[OPeRA](https://opera-phd.org/)**
+
+![opera-phd.org.jpeg|500](/img/user/media/opera-phd.org.jpeg)
 
 ---
 
