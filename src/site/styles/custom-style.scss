@@ -12,10 +12,27 @@ body {
     //  }
     /* Added by Adrian in January 2025 */
 
-    
-    :root .theme-dark {
-    --fg-purple: #81a867 !important; /* Redefine purple as green */
-}  
+    /* Custom styles for italic text */
+body span.cm-em {
+    color: #81a867 !important; /* Green for italic text */
+    font-style: italic !important;
+}
+
+/* Custom styles for bold text */
+body span.cm-strong {
+    color: #c29b68 !important; /* Orange for bold text */
+    font-weight: bold !important;
+}
+
+/* Ultra-specific rule to override any inline styles or variables */
+body .theme-dark .content span.cm-em {
+    color: #81a867 !important;
+}
+
+body .theme-dark .content span.cm-strong {
+    color: #c29b68 !important;
+}
+
     
     /* Custom styles for italic text */
 span.cm-em {
