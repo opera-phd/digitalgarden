@@ -11,8 +11,14 @@ body {
     //   color: black;
     //  }
     /* Added by Adrian in January 2025 */
+
+    
+    :root .theme-dark {
+    --fg-purple: #81a867 !important; /* Redefine purple as green */
+}  
+    
     /* Custom styles for italic text */
-body span.cm-em {
+span.cm-em {
     color: #81a867 !important; /* the italic text */
     font-style: italic !important;
 }
