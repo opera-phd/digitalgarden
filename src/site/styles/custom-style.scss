@@ -13,18 +13,6 @@ body {
     /* Added by Adrian in January 2025 */
 
 
-/* High-specificity override for italic text */
-.cm-s-obsidian span.cm-em {
-    color: #81a867 !important; /* Green for italic text */
-}
-
-/* High-specificity override for bold text */
-.cm-s-obsidian span.cm-strong {
-    color: #c29b68 !important; /* Orange for bold text */
-}
-
-
-
 
     /* Override text variables specifically in the Minimal theme's scope */
 :root .theme-dark {
@@ -33,28 +21,6 @@ body {
     --text-normal: #dad4bb !important; /* Beige for normal text */
 }
 
-/* Force these styles to apply */
-body strong,
-body span.cm-strong {
-    color: var(--bold-color) !important;
-    font-weight: bold !important;
-}
-
-body em,
-body span.cm-em {
-    color: var(--italic-color) !important;
-    font-style: italic !important;
-}
-
-body {
-    color: var(--text-normal) !important;
-}
-
-:root {
-    --fg-purple: #81a867 !important; /* Replace purple with your preferred green */
-}
-
-    
     
     /* Custom styles for italic text */
 span.cm-em {
