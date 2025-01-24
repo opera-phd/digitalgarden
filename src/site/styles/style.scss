@@ -3,13 +3,6 @@
 * MODIFY THE custom-style.scss FILE INSTEAD.
 ***/
 
-/***
-Adrian added this @import statement below here
-***/
-
-@import 'custom-style';
-
-
 :root {
     --background-primary: rgb(32, 31, 31);
     --background-secondary: rgb(57, 56, 56);
@@ -28,7 +21,7 @@ Adrian added this @import statement below here
 }
 
 h1 {
-    color: #c29b68;
+    color: #ffef60;
 }
 
 h2 {
