@@ -33,7 +33,22 @@ body .theme-dark .content span.cm-strong {
     color: #c29b68 !important;
 }
 
+    /* now forcing for inline styles*/
+
+    body span.cm-em,
+body span.cm-em::before,
+body span.cm-em::after {
+    color: #81a867 !important; /* Green for italic */
+}
+
+body span.cm-strong,
+body span.cm-strong::before,
+body span.cm-strong::after {
+    color: #c29b68 !important; /* Orange for bold */
+}
+
     
+    /* forcing above, there */
     /* Custom styles for italic text */
 span.cm-em {
     color: #81a867 !important; /* the italic text */
