@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-23T15:11:47.734+02:00","updated":"2025-01-17T19:09:47.094+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-23T15:11:47.734+02:00","updated":"2025-01-24T15:09:35.174+02:00"}
 ---
 
 > [!abstract]- antet  
-> context:: __fără context__, pagină de pornire   
+> context:: (această notă nu are context, este pagina de pornire)
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  
