@@ -44,6 +44,13 @@ body .sidebar {
     background-color: #343434 !important; /* Apply your desired color */
 }
 
+
+    body .sidebar, body .sidebar * {
+    background-color: #343434 !important; /* Ensure all child elements match the sidebar */
+}
+
+
+    
     
 
     /* Override text variables specifically in the Minimal theme's scope */
