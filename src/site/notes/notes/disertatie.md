@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2025-01-23T15:11:49.809+02:00","updated":"2024-12-29T17:58:10.116+02:00"}
+{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2025-01-23T15:11:49.809+02:00","updated":"2025-01-24T04:45:41.192+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -61,6 +61,44 @@
 - Adrian Carp: sinteza din Miro
 	- Adrian: de structurat, completat, adnotat
 
+
+| File                                                                          | Files                           |
+| ----------------------------------------------------------------------------- | ------------------------------- |
+| [[index\|index]]                                                           | index                           |
+| [[notes/- old compo - delete -\|- old compo - delete -]]                   | - old compo - delete -          |
+| [[notes/000 General knowledge\|000 General knowledge]]                     | 000 General knowledge           |
+| [[notes/001.450 PKM\|001.450 PKM]]                                         | 001.450 PKM                     |
+| [[notes/140 Philosophical schools\|140 Philosophical schools]]             | 140 Philosophical schools       |
+| [[notes/142.500 Fenomenologie temp\|142.500 Fenomenologie temp]]           | 142.500 Fenomenologie temp      |
+| [[notes/142.500 Phenomenology\|142.500 Phenomenology]]                     | 142.500 Phenomenology           |
+| [[notes/720 Architecture\|720 Architecture]]                               | 720 Architecture                |
+| [[notes/Adler\|Adler]]                                                     | Adler                           |
+| [[notes/arhitectura contemporana nota 1\|arhitectura contemporana nota 1]] | arhitectura contemporana nota 1 |
+| [[notes/disertatie\|disertatie]]                                           | disertatie                      |
+| [[notes/DST Lab MatDB\|DST Lab MatDB]]                                     | DST Lab MatDB                   |
+| [[notes/How to Read a Book\|How to Read a Book]]                           | How to Read a Book              |
+| [[notes/o500 DDC\|o500 DDC]]                                               | o500 DDC                        |
+| [[notes/OPeRA AI\|OPeRA AI]]                                               | OPeRA AI                        |
+| [[notes/OPeRA M\|OPeRA M]]                                                 | OPeRA M                         |
+| [[notes/OPeRA T\|OPeRA T]]                                                 | OPeRA T                         |
+| [[notes/OPeRA DE\|OPeRA DE]]                                               | OPeRA DE                        |
+| [[notes/OPeRA TUAIDEM\|OPeRA TUAIDEM]]                                     | OPeRA TUAIDEM                   |
+| [[notes/OPeRA U\|OPeRA U]]                                                 | OPeRA U                         |
+| [[notes/personalizare\|personalizare]]                                     | personalizare                   |
+| [[notes/SDU-21-C02\|SDU-21-C02]]                                           | SDU-21-C02                      |
+| [[notes/SDU-21-C03\|SDU-21-C03]]                                           | SDU-21-C03                      |
+| [[notes/SDU-21-C04\|SDU-21-C04]]                                           | SDU-21-C04                      |
+| [[notes/SDU-21\|SDU-21]]                                                   | SDU-21                          |
+| [[notes/structura platformei OPeRA\|structura platformei OPeRA]]           | structura platformei OPeRA      |
+| [[notes/sisteme PKM\|sisteme PKM]]                                         | sisteme PKM                     |
+| [[notes/studii OPeRA\|studii OPeRA]]                                       | studii OPeRA                    |
+| [[journal/2025.01.23\|2025.01.23]]                                         | 2025.01.23                      |
+| [[templates/nota-blank\|nota-blank]]                                       | nota-blank                      |
+| [[templates/template-de-test\|template-de-test]]                           | template-de-test                |
+| [[templates/template_idee\|template_idee]]                                 | template_idee                   |
+| [[templates/template_persoane\|template_persoane]]                         | template_persoane               |
+
+{ .block-language-dataview}
 
 
 ---
