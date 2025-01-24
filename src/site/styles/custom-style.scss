@@ -32,6 +32,22 @@ span.cm-strong, strong {
   --callout-color: #eee7dd !important; /* Replace #81a867 with your desired color */
 }
 
+    .callout {
+  --callout-color: #eee7dd; /* Your custom color */
+  --callout-container-shadow: none; /* Optional: Adjust shadow */
+  background-color: #eee7dd !important; /* Directly set background */
+  border-left: 4px solid #eee7dd !important; /* Set border color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important; /* Optional: Customize shadow */
+}
+
+.callout-title {
+  color: #e2b87e !important; /* Customize title text color */
+}
+
+.callout-content {
+  color: #e2b87e !important; /* Customize content text color */
+}
+
     
 
     /* Override text variables specifically in the Minimal theme's scope */
