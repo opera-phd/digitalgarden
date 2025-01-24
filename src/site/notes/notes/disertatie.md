@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2025-01-23T15:11:49.809+02:00","updated":"2025-01-24T04:59:47.106+02:00"}
+{"dg-publish":true,"permalink":"/notes/disertatie/","created":"2025-01-23T15:11:49.809+02:00","updated":"2025-01-24T05:06:25.295+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -60,6 +60,7 @@
 *(documentații de urbanism, peisagistică, arhitectură, detalii, sustenabilitate etc. pentru tema studiată la diplomă și ilustrată în disertație)*
 - Adrian Carp: sinteza din Miro
 	- Adrian: de structurat, completat, adnotat
+	- predat chiar mai devreme
 
 
 
