@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-23T15:11:47.734+02:00","updated":"2025-01-24T15:31:50.407+02:00"}
+{"dg-publish":true,"permalink":"/index/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-23T15:11:47.734+02:00","updated":"2025-01-25T15:49:48.486+02:00"}
 ---
 
 > [!abstract]- antet  
@@ -26,7 +26,7 @@
 # sistem personal de gestiune a cunoștințelor - PKMS
 *realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)*
 ![OPeRA-logo-350.png|200](/img/user/media/OPeRA-logo-350.png)
-## introducere
+## introducere și ghid
 Această pagină este punctul de **pornire** în structura acestui **modul al platformei digitale [OPeRA](https://opera-phd.org/),** versiunea 0.2[^1].
 Titlul site-ului, din partea stângă a paginii, **„OPeRA Digital Garden”**, este și **link** către pagina aceasta de pornire care conține cuprinsul modulului *(vezi mai jos, [[index#cuprins\|#cuprins]])*.
 Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
@@ -37,7 +37,7 @@ Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în 
 
 Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https://opera-phd.org/)** *(altă componentă a platformei noastre digitale)* și ne puteți scrie pe aceeași adresă: research@opera-phd.org.
 
-## cuprins
+## componentele platformei
 Principalele **componente** ale acestui modul sunt:
 - **structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale - [[notes/structura platformei OPeRA\|structura platformei OPeRA]]
 - **documentația și mediateca**, în sistem DDC - [[notes/o500 DDC\|o500 DDC]][^2]
