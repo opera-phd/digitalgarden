@@ -20,15 +20,15 @@
 
 # componentele  
 ## T - Teorie  
-- nota principală: [[notes/OPeRA T\|OPeRA T]]  
+- nota principală: [[OPeRA T\|OPeRA T]]  
 ## U - Urbanism  
-- nota principală: [[notes/OPeRA U\|OPeRA U]]  
+- nota principală: [[OPeRA U\|OPeRA U]]  
 ## AI - Arhitectură și Arhitectură de Interior  
-- nota principală: [[notes/OPeRA AI\|OPeRA AI]]  
+- nota principală: [[OPeRA AI\|OPeRA AI]]  
 ## DE - Detaliere pentru Execuție  
-- nota principală: [[notes/OPeRA DE\|OPeRA DE]]  
+- nota principală: [[OPeRA DE\|OPeRA DE]]  
 ## Materiale  
-- nota principală: [[notes/OPeRA M\|OPeRA M]]  
+- nota principală: [[OPeRA M\|OPeRA M]]  
 - bază de cunoștințe care va include și o interfață către baza de date cu materialele din **DST Lab** (vezi [[notes/structura platformei OPeRA\|structura platformei OPeRA]])
 
 # ideea  

@@ -57,7 +57,7 @@
 [[110 Metaphysics\|110 Metaphysics]]    
 [[120 Epistemology\|120 Epistemology]]    
 130 Parapsychology    
-[[notes/140 Philosophical schools\|140 Philosophical schools]]    
+[[140 Philosophical schools\|140 Philosophical schools]]    
 [[150 Psychology\|150 Psychology]]    
 [[160 Philosophical logic\|160 Philosophical logic]]    
 170 Ethics    
@@ -147,7 +147,7 @@
   
 700 Arts  
 710 Area planning and landscape architecture  
-[[notes/720 Architecture\|720 Architecture]]  
+[[720 Architecture\|720 Architecture]]  
 730 Sculpture and ceramics  
 [[740 Graphic and decorative arts\|740 Graphic and decorative arts]]  
 [[750 Painting\|750 Painting]]  

@@ -54,9 +54,9 @@ Principalele **componente** ale acestui modul sunt:
 
 |    (teorie)    |    (practică)    | (materialitate) |
 |:--------------:|:----------------:|:---------------:|
-|                |  [[notes/OPeRA U\|U]]  |                 |
-| [[notes/OPeRA T\|T]] | [[notes/OPeRA AI\|AI]] | [[notes/OPeRA M\|M]]  |
-|                | [[notes/OPeRA DE\|DE]] |                 |
+|                |  [[OPeRA U\|U]]  |                 |
+| [[OPeRA T\|T]] | [[OPeRA AI\|AI]] | [[OPeRA M\|M]]  |
+|                | [[OPeRA DE\|DE]] |                 |
 # aplicații în cadrul sistemului
 ## integrarea în cursuri din curricula UAUIM
 Unul dintre scopurile platformei digitale este de a oferi suport pentru câteva discipline din curricula UAUIM.
@@ -75,7 +75,7 @@ Proiectele pentru care a fost configurată conectarea cu platforma digitală sun
 	- și [[ST-84E\|ST-84E]] Design Studio - Sustainable Architecture, anul 5 EN, sem. 2 (proiect la alegere)
 ## îndrumarea disertațiilor
 Utilizarea în cadrul îndrumării disertațiilor reprezintă un subset al principiilor prezentate în cadrul cursului [[notes/SDU-21\|SDU-21]], Sisteme de cercetare și gestiunea cunoștințelor *(anul 1, SDU și SDA, sem. 1)* și ilustrate în cadrul acestei platforme, cu precădere pornind de la notele și modulele următoare:
-- [[notes/disertatie\|disertatie]], nota de pornire în activitatea de îndrumare a disertațiilor
+- [[disertatie\|disertatie]], nota de pornire în activitatea de îndrumare a disertațiilor
 - [[notes/001.450 PKM\|PKM]], documentații referitoare la sistemele personale de management al cunoștințelor (PKM)
 - [[notes/sisteme PKM\|sisteme PKM]], o selecție restrânsă de platforme și instrumente PKM
 ## îndrumarea tezelor de doctorat
