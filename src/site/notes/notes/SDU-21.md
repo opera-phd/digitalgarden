@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sdu-21/","created":"2025-01-23T15:11:47.736+02:00","updated":"2025-01-23T16:38:55.793+02:00"}
+{"dg-publish":true,"permalink":"/notes/sdu-21/","created":"2025-01-23T15:11:47.000+02:00","updated":"2025-01-23T16:38:56.000+02:00"}
 ---
 
 > [!abstract]- antet  

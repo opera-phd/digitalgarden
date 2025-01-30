@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/structura-platformei-o-pe-ra/","title":"structura platformei OPeRA","created":"2025-01-23T15:11:49.915+02:00","updated":"2025-01-15T06:37:37.622+02:00"}
+{"dg-publish":true,"permalink":"/notes/structura-platformei-o-pe-ra/","title":"structura platformei OPeRA","created":"2025-01-15T06:37:37.000+02:00","updated":"2025-01-15T06:37:38.000+02:00"}
 ---
 
 > [!abstract]- antet  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-pe-ra-tuaidem/","created":"2025-01-23T15:11:49.889+02:00","updated":"2025-01-15T06:43:31.553+02:00"}
+{"dg-publish":true,"permalink":"/notes/o-pe-ra-tuaidem/","created":"2025-01-15T06:43:31.000+02:00","updated":"2025-01-15T06:43:32.000+02:00"}
 ---
 
 > [!abstract]- antet  

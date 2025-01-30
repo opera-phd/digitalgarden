@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2025-01-23T15:11:49.912+02:00","updated":"2025-01-17T19:16:34.245+02:00"}
+{"dg-publish":true,"permalink":"/notes/sisteme-pkm/","title":"sisteme PKM","tags":[" "],"created":"2025-01-17T19:16:34.000+02:00","updated":"2025-01-17T19:16:34.000+02:00"}
 ---
 
 > [!abstract]- antet  
