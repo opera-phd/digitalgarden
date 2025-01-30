@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-old/","title":"platforma OPeRA","tags":["gardenEntry"],"created":"2025-01-30T10:48:11.760+02:00","updated":"2025-01-25T15:49:48.000+02:00"}
+{"dg-publish":true,"permalink":"/index-old/","title":"platforma OPeRA","created":"2025-01-30T10:48:11.760+02:00","updated":"2025-01-30T11:24:20.000+02:00"}
 ---
 
 > [!abstract]- antet  
